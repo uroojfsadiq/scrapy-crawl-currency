@@ -1,0 +1,25 @@
+
+2020-03-07 17:41:39.552945
+    USD to PKR is 154.1
+    AED to PKR is 41.65
+    BHD to PKR is 407
+    EUR to PKR is 172
+    THB to PKR is 4.7
+2020-03-07 17:41:42.639181
+    USD to PKR is 154.1
+    AED to PKR is 41.65
+    BHD to PKR is 407
+    EUR to PKR is 172
+    THB to PKR is 4.7
+2020-03-07 17:41:47.227552
+    USD to PKR is 154.1
+    AED to PKR is 41.65
+    BHD to PKR is 407
+    EUR to PKR is 172
+    THB to PKR is 4.7
+2020-03-07 17:43:38.638586
+    USD to PKR is 154.1
+    AED to PKR is 41.65
+    BHD to PKR is 407
+    EUR to PKR is 172
+    THB to PKR is 4.7
