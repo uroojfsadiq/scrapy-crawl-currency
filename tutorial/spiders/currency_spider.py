@@ -1,6 +1,13 @@
 import scrapy
 from datetime import datetime
+import flask
+from flask import request, jsonify
 
+app = flask.Flask(__name__)
+app.config["DEBUG"] = True
+
+    
+data = ''
 
 class QuotesSpider(scrapy.Spider):
     name = "currency"
@@ -25,3 +32,12 @@ class QuotesSpider(scrapy.Spider):
                 result = response.xpath(curr_dict[i]).getall()
                 f.write(f'''
     {i} to PKR is {result[0]}''')
+
+
+@app.route('/', methods=['GET'])
+def home():
+    with open('../../currencyRateToday.txt', 'r') as f:
+        data = f.read()
+        return data
+
+app.run()

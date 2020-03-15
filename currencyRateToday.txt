@@ -1,0 +1,13 @@
+
+2020-03-15 22:18:48.249062
+    USD to PKR is 156
+    AED to PKR is 41.5
+    BHD to PKR is 416.5
+    EUR to PKR is 170.5
+    THB to PKR is 4.75
+2020-03-15 22:20:39.758232
+    USD to PKR is 156
+    AED to PKR is 41.5
+    BHD to PKR is 416.5
+    EUR to PKR is 170.5
+    THB to PKR is 4.75
